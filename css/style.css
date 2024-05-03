@@ -1,0 +1,43 @@
+.container-fluid {
+    height: 100vh;
+    background-color: #cad2c5;
+    
+      }
+      .main{
+         margin: 5%;
+      }
+
+     .navbar {
+         background-color: #2f3d46;
+         a{
+            color: #ffff; 
+         }
+     }
+    .card-nav{
+     padding: 50%;
+     height: 100%;
+     border-radius: 10px;
+     background-color: #353535;
+     
+    }
+    .card-in{
+     padding: 30%;
+     border-radius: 10px;
+     background-color: #353535;
+    }
+    .card-in1{
+     padding: 10%;
+     border-radius: 10px;
+     background-color: #353535;
+    }
+    input[type="text"]{
+     width: 80%;
+     background-color: #353535;
+     border-radius: 10px;
+     
+    }
+    
+     ::placeholder {
+color: white !important;
+
+}
