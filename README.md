@@ -5,4 +5,4 @@
 For this task, a static design for a GitHub profile page was created using HTML, CSS, and Bootstrap.
 
 ### File
-- [index.html](task1/index.html)
+- [index.html](index.html)
